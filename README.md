@@ -1,26 +1,6 @@
-# UA AIAA Payload 2026
+# UA AIAA Payload 2027
 
 This repository includes the payload codes for the [UA AIAA](https://uaaiaa.org/) Rocket Competition Team.
-
-## Preview
-
-### Rocket Launch Data
-
-https://github.com/user-attachments/assets/e6d3bb94-cc8a-4640-be77-5c40b0f65d72
-
-### Rocket Prelaunch Testing
-
-#### Pressure and Temperature
-
-![Pressure and Temperature](/data/testing_20260617142200CDT/graph_pressure_temp.png)
-
-#### Magnetic Field
-
-![Magnetic Field](/data/testing_20260617142200CDT/graph_magnetic.png)
-
-#### Acceleration
-
-![Acceleration](/data/testing_20260617142200CDT/graph_acceleration.png)
 
 ## Software
 
